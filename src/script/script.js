@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
       img: "./src/img/siteadvogado.png",
       title: "Leal & Mattos Advocacia - Landing Page de Geração de Leads",
       description: "Landing page profissional desenvolvida para o escritório Leal & Mattos Advocacia, com foco total em Geração de Leads para uma tese jurídica específica.",
-      stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "PostgreSQL"],
+      stack: ["HTML", "CSS", "JavaScript"],
       liveUrl: "https://mateusmmattos.github.io/Sitegustavo/",
       repoUrl: "https://github.com/MateusMMattos/Sitegustavo"
     },
