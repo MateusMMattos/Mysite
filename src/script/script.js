@@ -149,11 +149,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const projectData = {
     "1": {
-      img: "https://placehold.co/600x400/D6FF76/1C2E35?text=Sistema+Web",
+      img: "./src/img/siteadvogado.png",
       title: "Sistema de Agendamento (Conceito)",
       description: "Plataforma web completa para clínicas e barbearias. O sistema permite o gerenciamento de horários por múltiplos profissionais, envio de lembretes automáticos via WhatsApp e um painel administrativo para visualizar o fluxo de caixa.",
       stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "PostgreSQL"],
-      liveUrl: "#",
+      liveUrl: "https://mateusmmattos.github.io/Sitegustavo/",
       repoUrl: "#"
     },
     "2": {
