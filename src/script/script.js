@@ -150,8 +150,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const projectData = {
     "1": {
       img: "./src/img/siteadvogado.png",
-      title: "Sistema de Agendamento (Conceito)",
-      description: "Plataforma web completa para clínicas e barbearias. O sistema permite o gerenciamento de horários por múltiplos profissionais, envio de lembretes automáticos via WhatsApp e um painel administrativo para visualizar o fluxo de caixa.",
+      title: "Leal & Mattos Advocacia - Landing Page de Geração de Leads",
+      description: "Landing page profissional desenvolvida para o escritório Leal & Mattos Advocacia, com foco total em Geração de Leads para uma tese jurídica específica.",
       stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "PostgreSQL"],
       liveUrl: "https://mateusmmattos.github.io/Sitegustavo/",
       repoUrl: "https://github.com/MateusMMattos/Sitegustavo"
